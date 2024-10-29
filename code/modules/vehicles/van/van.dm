@@ -41,7 +41,8 @@
 	movement_sound = 'sound/vehicles/tank_driving.ogg'
 	honk_sound = 'sound/vehicles/honk_2_truck.ogg'
 
-	vehicle_light_range = 8
+	light_range = 5
+	light_power = 2
 
 	move_max_momentum = 3
 
